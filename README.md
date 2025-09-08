@@ -81,7 +81,7 @@ Open Model Fusion using LightGBM.ipynb and run the cells.
 
 - ROC-AUC
 ---
-### 📊 Results
+## 📊 Results
 
 - Base models achieve varying levels of accuracy
 
@@ -89,7 +89,7 @@ Open Model Fusion using LightGBM.ipynb and run the cells.
 
 - Demonstrates benefits of stacking/ensemble learning over single models
 ---
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 To contribute:
@@ -102,6 +102,6 @@ git push origin feature/my-feature
 
 Then open a Pull Request.
 ---
-📜 License
+## 📜 License
 
 This project is released under the MIT License.
