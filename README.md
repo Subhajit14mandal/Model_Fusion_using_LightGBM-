@@ -1,5 +1,7 @@
 # 🌟 Model Fusion using LightGBM
 
+![Project Thumbnail](./Copilot_20250914_190937.png)
+
 This project explores **model fusion (stacking/blending)** techniques for predictive modeling, using **LightGBM** as the meta-learner.  
 By combining multiple base models (ML classifiers and ensembles), the project demonstrates how stacking can improve performance over individual models.  
 
